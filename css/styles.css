@@ -1,0 +1,18 @@
+.navbar {
+    padding-top: 0.9rem;
+    padding-bottom: 0.9rem;
+  }
+  
+  .navbar-brand img {
+    height: 50px; /* ajustá a tu gusto */
+    width: auto;  /* mantiene proporción */
+  }
+
+  .navbar-brand {
+    margin-left: 3rem; /* separa el logo del borde */
+  }
+  
+  .navbar-nav {
+    margin-right: 3rem; /* separa los enlaces del borde */
+  }
+  
