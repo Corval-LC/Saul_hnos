@@ -21,4 +21,8 @@
     height: 600px;      /* o el alto que quieras */
     object-fit: cover;  /* recorta manteniendo proporción */
   }
-  
+
+.card {
+  min-height: 150px;
+}
+
