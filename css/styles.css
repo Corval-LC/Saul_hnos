@@ -26,3 +26,7 @@
   min-height: 150px;
 }
 
+.image-radius {
+  border-radius: 5px;
+
+}
