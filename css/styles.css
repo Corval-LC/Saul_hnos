@@ -41,3 +41,9 @@
   max-width: 75%;
   height: auto;
 }
+
+.alert {
+  background-color: rgb(231, 231, 231);
+  color: black;
+  border-color: rgb(231, 231, 231);
+}
